@@ -1,5 +1,5 @@
 ﻿# Python Exercises
-Store all my python exericses for backup
+Store all my python exercises as backup
 
 # Project Documentation
 
